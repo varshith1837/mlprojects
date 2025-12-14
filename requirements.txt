@@ -4,3 +4,4 @@ pandas
 scikit-learn
 catboost
 xgboost
+dill
